@@ -4,7 +4,7 @@ Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software dev
 
 | subject    | link     |
 | ----------- | ----------- |
-| preb css | [click here]() |
+| preb RWD | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/RWD) |
 | class 01 | [click here]() |
 | class 02 | [click here]() |
 | class 03 | [click here]() |
