@@ -14,9 +14,9 @@ Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software dev
 | class 07 | [click here]() |
 | class 08 | [click here]() |
 | class 09 | [click here]() |
-| class 10 | [click here]()|
+| class 10 | [click here]() |
 | class 11 | [click here]() |
 | class 12 | [click here]() |
 | class 13 | [click here]() |
-| class 14 |[click here]() |
-| class 15 |[click here]() |
+| class 14 | [click here]()  |
+| class 15 | [click here]()  |
