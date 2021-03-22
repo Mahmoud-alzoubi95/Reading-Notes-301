@@ -5,9 +5,8 @@ Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software dev
 | subject    | link     |
 | ----------- | ----------- |
 | preb RWD | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/RWD) |
-| class 01 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class02) |
-| class 02 | [click here]() |
-| class 03 | [click here]() |
+| class 02 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class02)|
+| class 03 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class03) |
 | class 04 | [click here]() |
 | class 05 | [click here]() |
 | class 06 | [click here]() |
