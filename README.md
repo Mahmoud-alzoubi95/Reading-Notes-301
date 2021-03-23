@@ -2,12 +2,12 @@
 
 Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software development student at class-201. I will share what i learn each day here on this page.:smile:
 
-| subject    | link     |
-| ----------- | ----------- |
-| preb RWD | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/RWD) |
+|  subject |  link   |
+| ---------|---------|
+| preb RWD | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/RWD)|
 | class 02 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class02)|
-| class 03 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class03) |
-| class 04 | [click here]() |
+| class 03 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class03)|
+| class 04 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class04)|
 | class 05 | [click here]() |
 | class 06 | [click here]() |
 | class 07 | [click here]() |
@@ -17,5 +17,5 @@ Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software dev
 | class 11 | [click here]() |
 | class 12 | [click here]() |
 | class 13 | [click here]() |
-| class 14 | [click here]()  |
-| class 15 | [click here]()  |
+| class 14 | [click here]() |
+| class 15 | [click here]() |
