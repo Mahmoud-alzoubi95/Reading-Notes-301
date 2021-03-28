@@ -9,8 +9,8 @@ Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software dev
 | class 03 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class03)|
 | class 04 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class04)|
 | class 05 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class05) |
-| class 06 | [click here]() |
-| class 07 | [click here]() |
+| class 06 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class06) |
+| class 07 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class07) |
 | class 08 | [click here]() |
 | class 09 | [click here]() |
 | class 10 | [click here]() |
