@@ -14,7 +14,7 @@ Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software dev
 | class 08 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class08)|
 | class 09 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class09)|
 | class 10 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class10)|
-| class 11 | [click here]() |
+| class 11 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class11)|
 | class 12 | [click here]() |
 | class 13 | [click here]() |
 | class 14 | [click here]() |
