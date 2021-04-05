@@ -16,6 +16,6 @@ Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software dev
 | class 10 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class10)|
 | class 11 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class11)|
 | class 12 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class12) |
-| class 13 | [click here]() |
+| class 13 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-301/class13) |
 | class 14 | [click here]() |
 | class 15 | [click here]() |
